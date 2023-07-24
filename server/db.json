@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular 5 blog",
+      "text": "Shall do at 6 pm"
+    },
+    {
+      "id": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions"
+    },
+    {
+      "title": "Angular 5 learning",
+      "text": "Here is a good blog",
+      "id": 3
+    },
+    {
+      "title": "java",
+      "text": "traning",
+      "id": 4
+    },
+    {
+      "title": "Angular",
+      "text": "Components, Modules and services",
+      "id": 5
+    },
+    {
+      "title": "Routing",
+      "text": "static and dynamic",
+      "id": 6
+    }
+  ]
+}
